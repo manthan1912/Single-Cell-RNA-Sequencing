@@ -12,7 +12,7 @@ After installing python open command prompt and run the following command to ins
 > pip install notebook
 
 Next:
-Unzip the folder that you have donwloaded from the github and place the folder into 'C:/Users/{UserName}/'
+Unzip the folder that you have downloaded from the github and place the folder into 'C:/Users/{UserName}/'
 
 Next Download the data files from
 https://drive.google.com/drive/folders/1PcCQFD7bBJz6QjDsbck7B5fzc7CEcsyS?usp=sharing
